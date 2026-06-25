@@ -9,7 +9,7 @@ The **⚛️ KMS Quantum Toolkit** is a next-generation activation engine that u
 
 <div align="center">
 
-[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-quantum-toolkit)
+[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-quantum-toolkit)
 
 </div>
 
@@ -96,7 +96,7 @@ Traditional activation tools are slow, sequential, and prone to random failures.
 3. **🖱️ Run as Administrator** — `KMSQuantumToolkit.exe`
 4. **⚡ Click "Quantum Activate"** — done in <2 seconds
 
-[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-quantum-toolkit)
+[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-quantum-toolkit)
 
 ### Quantum Interface
 
@@ -259,7 +259,7 @@ Next-generation activation. **KMS Quantum Toolkit** delivers parallel processing
 
 <div align="center">
 
-[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-quantum-toolkit)
+[![Download KMS Quantum Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-quantum-toolkit)
 
 **Version 3.0.0** — Next-gen activation engine. Free forever.
 
